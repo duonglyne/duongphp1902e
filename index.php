@@ -1,2 +1,2 @@
 <?php
-phpinfo();
+echo "Xin chào, mình là Dưỡng";
